@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.referencedLibraries": [
+        "lib/sqlite-jdbc-3.53.1.0.jar",
+        "lib/vosk-0.3.45.jar"
+    ]
+}

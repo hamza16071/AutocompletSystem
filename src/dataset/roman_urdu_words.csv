@@ -1,0 +1,358 @@
+word,category,frequency
+aap,roman_urdu,200
+aap kaise hain,roman_urdu,190
+aap theek hain,roman_urdu,180
+aap ka naam kya hai,roman_urdu,175
+aap kahan hain,roman_urdu,170
+aap ko kya chahiye,roman_urdu,165
+aap ki madad kar sakta hun,roman_urdu,160
+aap ka shukriya,roman_urdu,155
+aap bahut acha bolte hain,roman_urdu,150
+aap se milkar khushi hui,roman_urdu,145
+aaj ka din kaisa tha,roman_urdu,140
+aaj bohot garmi hai,roman_urdu,138
+aaj school hai,roman_urdu,135
+aaj kuch nahi karna,roman_urdu,130
+aaj bohot neend aa rahi hai,roman_urdu,128
+main,roman_urdu,200
+main theek hun,roman_urdu,195
+main ghar ja raha hun,roman_urdu,185
+main khaana kha raha hun,roman_urdu,180
+main padh raha hun,roman_urdu,175
+main bohot thaka hua hun,roman_urdu,170
+main kal aaunga,roman_urdu,165
+main samajh gaya,roman_urdu,160
+main dobara aaunga,roman_urdu,155
+main soch raha hun,roman_urdu,150
+mujhe,roman_urdu,195
+mujhe bhook lagi hai,roman_urdu,190
+mujhe pani chahiye,roman_urdu,185
+mujhe neend aa rahi hai,roman_urdu,180
+mujhe maafi chahiye,roman_urdu,175
+mujhe nahi pata,roman_urdu,170
+mujhe bahut khushi hai,roman_urdu,165
+mujhe yahan jaana hai,roman_urdu,160
+mujhe kuch kaam karna hai,roman_urdu,155
+mujhe waqt chahiye,roman_urdu,150
+kya,roman_urdu,200
+kya haal hai,roman_urdu,195
+kya baat hai,roman_urdu,190
+kya chal raha hai,roman_urdu,185
+kya scene hai,roman_urdu,180
+kya hua,roman_urdu,175
+kya tum theek ho,roman_urdu,170
+kya yeh sahi hai,roman_urdu,165
+kya aap bata sakte hain,roman_urdu,160
+kya aap ghar pe hain,roman_urdu,155
+kyun,roman_urdu,190
+kyun nahi,roman_urdu,185
+kyun ro rahe ho,roman_urdu,175
+kyun itni der ki,roman_urdu,170
+kyun tension le rahe ho,roman_urdu,165
+kahan,roman_urdu,185
+kahan ja rahe ho,roman_urdu,180
+kahan se aaye ho,roman_urdu,175
+kahan rehte ho,roman_urdu,170
+kahan milenge,roman_urdu,165
+kab,roman_urdu,185
+kab aao ge,roman_urdu,180
+kab tak,roman_urdu,175
+kab se,roman_urdu,170
+kab tak wapas aao ge,roman_urdu,165
+kaun,roman_urdu,180
+kaun hai,roman_urdu,175
+kaun sa,roman_urdu,170
+kaun si cheez,roman_urdu,165
+kaise,roman_urdu,185
+kaise ho,roman_urdu,180
+kaise hain aap,roman_urdu,175
+kaise kiya,roman_urdu,170
+kaise pata chala,roman_urdu,165
+kitna,roman_urdu,175
+kitna time lagega,roman_urdu,170
+kitna paise,roman_urdu,165
+kitni door hai,roman_urdu,160
+yaar,roman_urdu,190
+yaar sun,roman_urdu,185
+yaar kya baat kar raha hai,roman_urdu,180
+yaar kahan tha tu,roman_urdu,175
+bhai,roman_urdu,195
+bhai kya haal,roman_urdu,190
+bhai ek kaam kar,roman_urdu,185
+bhai sunta hai,roman_urdu,180
+bhai tension mat le,roman_urdu,175
+dost,roman_urdu,188
+dost kahan gaya,roman_urdu,180
+dost ban jao,roman_urdu,170
+pyaar,roman_urdu,185
+pyaar karna,roman_urdu,180
+pyaar mohabbat,roman_urdu,175
+mohabbat,roman_urdu,180
+mohabbat kya hoti hai,roman_urdu,170
+zindagi,roman_urdu,180
+zindagi khubsoorat hai,roman_urdu,175
+zindagi mein aage bado,roman_urdu,170
+khuda,roman_urdu,175
+khuda hafiz,roman_urdu,190
+khuda ka shukar hai,roman_urdu,185
+Allah,roman_urdu,195
+Allah hafiz,roman_urdu,190
+Allah ka naam lo,roman_urdu,185
+inshallah,roman_urdu,195
+inshallah zaroor,roman_urdu,185
+mashallah,roman_urdu,190
+alhamdulillah,roman_urdu,188
+subhanallah,roman_urdu,185
+bismillah,roman_urdu,183
+shukriya,roman_urdu,190
+shukriya bohot zyada,roman_urdu,180
+meherbani,roman_urdu,185
+meherbani aap ki,roman_urdu,175
+koi baat nahi,roman_urdu,190
+koi baat nahi dost,roman_urdu,180
+theek hai,roman_urdu,195
+theek ho,roman_urdu,190
+acha,roman_urdu,195
+acha theek hai,roman_urdu,188
+bilkul,roman_urdu,185
+bilkul sahi,roman_urdu,180
+bilkul theek,roman_urdu,175
+zaroor,roman_urdu,183
+zaroor aana,roman_urdu,175
+haan,roman_urdu,198
+haan bilkul,roman_urdu,190
+haan zaroor,roman_urdu,185
+nahi,roman_urdu,198
+nahi chalega,roman_urdu,185
+nahi hua,roman_urdu,180
+nahi karna,roman_urdu,175
+shayad,roman_urdu,182
+matlab,roman_urdu,185
+matlab kya hai,roman_urdu,180
+samajh,roman_urdu,183
+samajh nahi aaya,roman_urdu,175
+samajh gaya,roman_urdu,178
+pata nahi,roman_urdu,188
+dekho,roman_urdu,183
+suno,roman_urdu,185
+suno zara,roman_urdu,178
+achi baat,roman_urdu,180
+buri baat,roman_urdu,170
+chalo,roman_urdu,188
+chalo chalte hain,roman_urdu,180
+chalo phir,roman_urdu,175
+ruko,roman_urdu,185
+ruko zara,roman_urdu,178
+aaoo,roman_urdu,180
+aaoo milte hain,roman_urdu,172
+ghar,roman_urdu,188
+ghar pe aao,roman_urdu,180
+ghar ja,roman_urdu,175
+ghar kab aao ge,roman_urdu,170
+khaana,roman_urdu,185
+khaana kha liya,roman_urdu,180
+khaana tayyar hai,roman_urdu,175
+chai,roman_urdu,190
+chai pi lo,roman_urdu,185
+chai tayyar hai,roman_urdu,180
+pani,roman_urdu,188
+pani pina hai,roman_urdu,180
+thanda pani,roman_urdu,175
+school,roman_urdu,185
+school kab hai,roman_urdu,178
+school se aa gaye,roman_urdu,172
+kaam,roman_urdu,185
+kaam karna hai,roman_urdu,180
+kaam kiya,roman_urdu,175
+kaam chal raha hai,roman_urdu,170
+waqt,roman_urdu,183
+waqt nahi hai,roman_urdu,175
+waqt barbaad mat karo,roman_urdu,170
+subah,roman_urdu,183
+subah ho gayi,roman_urdu,175
+subah uthna,roman_urdu,170
+raat,roman_urdu,180
+raat ko milte hain,roman_urdu,172
+raat bahut ho gayi,roman_urdu,168
+kal,roman_urdu,185
+kal milenge,roman_urdu,178
+kal school hai,roman_urdu,173
+parhai,roman_urdu,180
+parhai karo,roman_urdu,175
+parhai mein kya chal raha hai,roman_urdu,168
+imtihaan,roman_urdu,178
+imtihaan kal hai,roman_urdu,173
+imtihaan kab hai,roman_urdu,168
+project,roman_urdu,180
+project banao,roman_urdu,175
+project submit karna hai,roman_urdu,170
+sir ne kaha,roman_urdu,175
+sir aane wale hain,roman_urdu,170
+hasi,roman_urdu,175
+hasi aana,roman_urdu,168
+khushi,roman_urdu,178
+khushi ki baat hai,roman_urdu,172
+gham,roman_urdu,170
+gham mat karo,roman_urdu,165
+tension,roman_urdu,178
+tension mat lo,roman_urdu,172
+tension chhodo,roman_urdu,168
+mushkil,roman_urdu,175
+mushkil kaam hai,roman_urdu,168
+aasaan,roman_urdu,173
+aasaan nahi,roman_urdu,165
+dobaara,roman_urdu,175
+dobaara karna,roman_urdu,168
+sath,roman_urdu,178
+sath aana,roman_urdu,172
+sath rehna,roman_urdu,168
+milna,roman_urdu,175
+milna hai,roman_urdu,168
+milte hain,roman_urdu,172
+baat,roman_urdu,183
+baat karo,roman_urdu,178
+baat sunna,roman_urdu,172
+baat samajh aaye,roman_urdu,168
+hello,english,200
+hi,english,195
+hey,english,190
+bye,english,188
+goodbye,english,182
+good morning,english,195
+good night,english,192
+good afternoon,english,185
+good evening,english,180
+how are you,english,190
+i am fine,english,185
+what is your name,english,183
+my name is,english,180
+nice to meet you,english,178
+see you later,english,175
+take care,english,172
+thank you,english,192
+thanks,english,190
+thank you so much,english,185
+you are welcome,english,180
+please,english,188
+sorry,english,185
+excuse me,english,182
+no problem,english,180
+ok,english,198
+okay,english,195
+yes,english,193
+no,english,193
+sure,english,188
+of course,english,185
+definitely,english,180
+absolutely,english,178
+maybe,english,182
+i don't know,english,185
+i understand,english,180
+i see,english,178
+got it,english,188
+wait,english,185
+stop,english,182
+go ahead,english,180
+come on,english,178
+let's go,english,182
+what's up,english,188
+what happened,english,183
+when,english,185
+where,english,183
+why,english,183
+how,english,185
+what,english,188
+who,english,183
+which,english,180
+how much,english,183
+how many,english,180
+how long,english,178
+how far,english,175
+please help me,english,182
+can you help me,english,180
+i need help,english,178
+what time is it,english,180
+where are you,english,183
+are you there,english,178
+send me the file,english,180
+check the message,english,178
+reply karo,mixed,185
+message kar,mixed,183
+WhatsApp pe message kar,mixed,180
+call kar,mixed,185
+call karo,mixed,183
+video call karo,mixed,180
+online ho,mixed,178
+offline ho gaya,mixed,175
+internet slow hai,mixed,183
+wifi nahi chal raha,mixed,180
+mobile charge karo,mixed,178
+battery khatam ho gayi,mixed,175
+download kar lo,mixed,183
+share karo,mixed,180
+screenshot le lo,mixed,178
+photo khench lo,mixed,175
+camera on karo,mixed,173
+app install karo,mixed,180
+update available hai,mixed,175
+password bhool gaya,mixed,173
+login nahi ho raha,mixed,170
+Google pe search karo,mixed,183
+YouTube pe dekho,mixed,180
+Facebook pe hai,mixed,175
+Instagram story dekho,mixed,173
+TikTok wali video,mixed,170
+kya baat hai bhai,mixed,190
+boss kya haal hai,mixed,185
+yaar scene kya hai,mixed,183
+chill kar,mixed,188
+relax ho jao,mixed,183
+tension mat le yaar,mixed,180
+time waste mat karo,mixed,178
+kaam pe focus karo,mixed,175
+deadline kal hai,mixed,183
+assignment submit karo,mixed,180
+notes share karo,mixed,178
+class chhoot gayi,mixed,175
+exam mein kya aaya,mixed,178
+pass ho gaya,mixed,183
+fail nahi hoga,mixed,175
+result kab aayega,mixed,173
+marks achay hain,mixed,178
+lunch break hai,mixed,180
+break lo,mixed,183
+coffee pite hain,mixed,178
+lunch karte hain,mixed,180
+dinner pe aao,mixed,175
+ghar pe aao khana khaao,mixed,173
+plan kya hai aaj,mixed,180
+weekend pe kya karo ge,mixed,175
+movie dekhne chalte hain,mixed,173
+game khelna hai,mixed,175
+online game,mixed,178
+match dekh rahe ho,mixed,175
+cricket match hai aaj,mixed,173
+Pakistan ne jeeta,mixed,180
+Pakistan zindabad,roman_urdu,185
+Pakistan ka naam roshan karo,roman_urdu,178
+aman aur shanti,roman_urdu,172
+ittehad zaroor hai,roman_urdu,170
+umeed,roman_urdu,175
+umeed rakho,roman_urdu,170
+dua karo,roman_urdu,175
+dua mein yaad rakhna,roman_urdu,170
+namaz padho,roman_urdu,173
+Quran parho,roman_urdu,170
+Ramadan Mubarak,roman_urdu,178
+Eid Mubarak,roman_urdu,185
+birthday Mubarak,roman_urdu,182
+congratulations,english,180
+well done,english,183
+great job,english,180
+keep it up,english,178
+you can do it,english,175
+don't give up,english,173
+best of luck,english,180
+all the best,english,183
+stay safe,english,180
+stay healthy,english,178
